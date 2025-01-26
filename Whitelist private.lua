@@ -14,5 +14,4 @@ return {
     [1466667222] = true,
     [7566315911] = true,
     [1448053424] = true,
-    [zeqhiueuhiuyega] = true,
 }
